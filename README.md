@@ -1,3 +1,3 @@
 # Clustering_samples
 
-پیاده سازی دستی توابع دسته بنذی GaussianNB و خوشه بندی Kmedoids - DBScan
+پیاده سازی دستی توابع دسته بندی GaussianNB و خوشه بندی Kmedoids - DBScan
